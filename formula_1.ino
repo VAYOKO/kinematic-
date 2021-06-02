@@ -1,4 +1,4 @@
-
+//robot 6 dof x y z by Varis Vipavanich 3/6/2021
 //distance of robot unit mm ระยะเเขนกล หน่วยเป็น มิลลิเมตร
 int L_1 = 120, L_2 = 150, L3A = 50, L3B = 10;
 
